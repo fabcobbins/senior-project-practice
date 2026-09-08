@@ -1,4 +1,3 @@
-
 print("Senior Project Developer Profile")
 print()
 print("Name: Michael Cobbins")
