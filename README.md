@@ -14,3 +14,17 @@ This project is a simple Python program that displays my Senior Project Develope
 ## Project Purpose
 
 The purpose of this project is to introduce my interests and goals for Senior Project, with a focus on blockchain technology and developing skills in smart contract development.
+
+# Student Developer Profile
+
+## Student Developer Profile
+
+**Name:** Michael Cobbins
+
+**Technology Interest:** Blockchain
+
+**Senior Project Skill Goal:** Smart Contract Development
+
+## Development Workflow
+
+**Branch → Code → Commit → Push → Pull Request → Review → Merge**
